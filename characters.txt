@@ -2,3 +2,4 @@ jay
 nick
 daisy
 thomas
+Thomas
